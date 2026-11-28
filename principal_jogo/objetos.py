@@ -1,0 +1,1 @@
+#programação dos objetos pistas etc
